@@ -1,0 +1,26 @@
+
+h1{
+text-align: center;
+border-bottom: 2px solid black;
+border-bottom-right-radius: 10px;
+font-size: 50px;
+color: black;
+
+}
+.main_body1{
+    height: 1000px;
+    width: 100%;
+    background:linear-gradient(#f210f8,#10f82d);
+    
+}
+img{
+    height:600px;
+    width: 600px;
+    margin: right;
+    float: right;
+
+}
+p{
+    font-size:25px;
+
+}
